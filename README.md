@@ -1,31 +1,70 @@
-## Olá Pessoas... 👽
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/joyce-oquendo/) [![followersGit](https://img.shields.io/github/followers/joycebueno?style=social)](https://github.com/joycebueno) <img src="https://komarev.com/ghpvc/?username=joycebueno&label=Profile%20views&color=0e75b6&style=social" alt="Joyce Bueno" /> ![Dev](https://img.shields.io/badge/Dev-JoyceBueno-orange)
 
-Hi, me chamo **Joyce Bueno**. Tenho 20 anos e moro em Barueri - SP. Sou brasileira de pai argentino. Conheci a programação a 2 anos e dai em diante se tornou meu foco de profissão.
-<hr/>
+**Olá**! Sou a *Joyce Bueno* e esse é meu experimento.✨<br/>
+❗Perfil criado com propósito de amazenar meus trabalhos e experiências adquiridas ao longo do tempo.<hr/> 
 
-### Hobbies ❤️
-- 📚 Leitura de *livros* e *mangas*.
-- 🌎 Viajar por lugares incríveis.
-- 🎧 Ouvir músicas.
-- 🎥 Editar vídeos.
-- 🚲 Andar de moto.
-- 🎮 Montar quebra-cabeças.  
-### Atualmente 📌
-- 💻 Trabalhando atualmente com **android Java**.
-- 🎓 Estudando **inglês**. 
-- 🎬 Estudando edições de vídeos.
 
-### Projetos Futuros 📈
-- 🌍 Viajar pelo mundo.
-- 🎓 Aprender novas línguas.
+### Status
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joycebueno&show_icons=true&theme=dracula" alt="Joyce Bueno" />
+  &nbsp;
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joycebueno&layout=compact&langs_count=16&theme=dracula" /> 
+</div>
 
 <hr/>
 
-### Tecnologias, Ferramentas e Linguagens.
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>  <code><img width="20%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code> <code><img width="20%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg"></code>
-<hr/>
+### Linguagens
+<table cellspan="0" collspan="0" width="100">
+  <tr>
+    <td>
+      <img align="center" alt="Joy-Android" height="auto" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+     </td>
+    <td>
+      <img align="center" alt="Joy-Android" height="auto" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg">
+     </td>
+    <td>
+       <img align="center" alt="Joy-Android" height="auto" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg">
+     </td>
+     <td>
+      <img align="center" alt="Joy-Android" height="auto" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+     </td>
+     <td>
+      <img align="center" alt="Joy-Android" height="auto" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
+     </td>
+     <td>
+       <img align="center" alt="Joy-Android" height="auto" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg">
+     </td>
+  </tr>
+</table>
 
-### Meu Status no Github
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=joycebueno&show_icons=true&locale=en" alt="Joyce Bueno" />
+### Ferramentas
+<table cellspan="0" collspan="0" width="100">
+  <tr>
+     <td>
+       <img align="center" alt="Joy-Android" height="auto" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-plain-wordmark.svg">
+     </td>
+    <td>
+      <img align="center" alt="Joy-Android" height="auto" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
+     </td>
+    <td>
+      <img align="center" alt="Joy-Android" height="auto" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">
+     </td>
+    <td>
+       <img align="center" alt="Joy-Android" height="auto" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+     </td>
+     <td>
+      <img align="center" alt="Joy-Android" height="auto" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg">
+     </td>
+     <td>
+      <img align="center" alt="Joy-Android" height="auto" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg">
+     </td>
+     <td>
+       <img align="center" alt="Joy-Android" height="auto" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bamboo/bamboo-original-wordmark.svg">
+     </td>
+  </tr>
+</table>
+
+
+
+
+
